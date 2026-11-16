@@ -1,8 +1,8 @@
 # SABLE YARD
 
-[![make.fun · threejs-fps-01](https://make.fun/badge/threejs-fps-01.svg)](https://make.fun/bounty/threejs-fps-01?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
-[![rank](https://make.fun/badge/threejs-fps-01/Hadivans/sable-yard-fps/rank.svg)](https://make.fun/bounty/threejs-fps-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
-[![reward](https://make.fun/badge/threejs-fps-01/Hadivans/sable-yard-fps/reward.svg)](https://make.fun/bounty/threejs-fps-01?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01)
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/Hadivans/sable-yard-fps/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/Hadivans/sable-yard-fps/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 
 An original tactical FPS in three.js — a Counter-Strike-STYLE game, never a copy.
 A decommissioned rail/container yard at dusk. Five SABLE attackers against five
@@ -70,4 +70,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=6ftj8n6s&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=6ftj8n6s&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards</sub>
